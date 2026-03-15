@@ -1,1 +1,1 @@
-Design and apply context-aware access controls based on user identity, device posture, location, and application risk.
+https://drive.google.com/drive/folders/1YqvhdVvIstapU73oMv7vP_QCN0y6YIKz?usp=sharing
